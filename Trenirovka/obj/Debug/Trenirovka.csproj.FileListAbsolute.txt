@@ -1,0 +1,97 @@
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.AssemblyReference.cache
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\MainWindow.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\App.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka_MarkupCompile.cache
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka_MarkupCompile.lref
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Trenirovka.exe.config
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Trenirovka.exe
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Trenirovka.pdb
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\MainWindow.baml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.g.resources
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.Properties.Resources.resources
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.GenerateResource.cache
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.CoreCompileInputs.cache
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.exe
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.pdb
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\CheckUser.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\CheckUser.baml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\MaterialDesignColors.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\MaterialDesignColors.pdb
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.CopyComplete
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\MoreData.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\MoreData.baml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\FireSharp.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Newtonsoft.Json.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Extensions.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Primitives.dll
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\Newtonsoft.Json.xml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Extensions.xml
+D:\save VISUAL\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Primitives.xml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.App.config
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\App.baml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Adding_Upraznenie.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Adding_Upraznenie.baml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Edit_Upraznenie.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Edit_Upraznenie.baml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Adding_Trenirovka.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Adding_Trenirovka.baml
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Export_Trenirovka.g.cs
+D:\save VISUAL\Trenirovka\Trenirovka\obj\Debug\Export_Trenirovka.baml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Trenirovka.exe.config
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Trenirovka.exe
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Trenirovka.pdb
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\FireSharp.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\MaterialDesignColors.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Newtonsoft.Json.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Extensions.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Primitives.dll
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\MaterialDesignColors.pdb
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\Newtonsoft.Json.xml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Extensions.xml
+C:\VSSaves\Trenirovka\Trenirovka\bin\Debug\System.Net.Http.Primitives.xml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.App.config
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.AssemblyReference.cache
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.SuggestedBindingRedirects.cache
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Adding_Trenirovka.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Adding_Upraznenie.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\CheckUser.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Edit_Upraznenie.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Export_Trenirovka.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\MainWindow.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\MoreData.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\App.g.cs
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka_MarkupCompile.cache
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka_MarkupCompile.lref
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\App.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Adding_Trenirovka.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Adding_Upraznenie.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\CheckUser.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Edit_Upraznenie.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Export_Trenirovka.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\MainWindow.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\MoreData.baml
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.g.resources
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.Properties.Resources.resources
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.GenerateResource.cache
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.CoreCompileInputs.cache
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.csproj.CopyComplete
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.exe
+C:\VSSaves\Trenirovka\Trenirovka\obj\Debug\Trenirovka.pdb
